@@ -1,0 +1,49 @@
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\Avtomobils.exe.config
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\Avtomobils.exe
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\Avtomobils.pdb
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\EntityFramework.dll
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\EntityFramework.xml
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csprojAssemblyReference.cache
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Properties.Resources.resources
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csproj.GenerateResource.cache
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csproj.CopyComplete
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.exe
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.pdb
+C:\Users\Pro100master99\source\repos\Avtomobils\Avtomobils\obj\Debug\Avtomobils.АВТОМОБИЛИ.resources
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\Avtomobils.exe.config
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\Avtomobils.exe
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\Avtomobils.pdb
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\EntityFramework.dll
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\EntityFramework.xml
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csprojAssemblyReference.cache
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Form1.resources
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Properties.Resources.resources
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csproj.GenerateResource.cache
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csproj.CopyComplete
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.exe
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.pdb
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Добавить_данные.resources
+C:\Users\Pro100master99\Desktop\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Изменить_данные.resources
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\Avtomobils.exe.config
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\Avtomobils.exe
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\Avtomobils.pdb
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\EntityFramework.dll
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\EntityFramework.xml
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csprojAssemblyReference.cache
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Form1.resources
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Properties.Resources.resources
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Добавить_данные.resources
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.Изменить_данные.resources
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csproj.GenerateResource.cache
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.csproj.CopyComplete
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.exe
+C:\Users\Pro100master99\Desktop\Папка с гитом\Avtomobils\Avtomobils\obj\Debug\Avtomobils.pdb
